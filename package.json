@@ -3,7 +3,7 @@
   "private": false,
   "version": "1.0.0",
   "type": "module",
-  "description": "Interactive student workbook for The Second Audience measurement course",
+  "description": "Fillable field workbook for The Second Audience. Classify machine traffic, score what live AI readers receive, and keep measurement honest.",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

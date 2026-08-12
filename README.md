@@ -1,8 +1,14 @@
 # The Second Audience - Student Workbook
 
+[![Live workbook](https://img.shields.io/badge/live-workbook-8fdb4d?style=flat-square&labelColor=1b1b16)](https://camburley.github.io/second-audience-workbook/)
+[![MIT](https://img.shields.io/badge/license-MIT-3f5a1c?style=flat-square&labelColor=1b1b16)](./LICENSE)
+[![AudienceTwo](https://img.shields.io/badge/course-AudienceTwo-3f5a1c?style=flat-square&labelColor=1b1b16)](https://audiencetwo.com/second-audience)
+
 Interactive field workbook for measuring how machines read, represent, and act on companies across the web.
 
 **Not a PDF.** A fillable UI with autosave, print styles, and Markdown export.
+
+**Live:** https://camburley.github.io/second-audience-workbook/
 
 > Where measurement is narrower than the phenomenon, the thesis wins.
 
