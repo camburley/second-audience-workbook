@@ -1,4 +1,5 @@
 import { useMemo } from "react";
+import { courseUrl } from "./lib/courseUrl";
 import { exportMarkdown } from "./lib/exportMarkdown";
 import { useWorkbook } from "./lib/useWorkbook";
 import {
@@ -202,7 +203,7 @@ export default function App() {
         </span>
         <a
           className="tool"
-          href="https://audiencetwo.com/second-audience"
+          href={courseUrl(window.location.search)}
           target="_blank"
           rel="noreferrer"
         >
